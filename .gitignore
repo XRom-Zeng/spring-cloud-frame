@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+eureka-consumer/src/test/
+eureka-consumer/target/
+eureka-provider-1/src/test/
+eureka-provider-1/target/
+eureka-provider-2/src/test/
+eureka-provider-2/target/
+eureka-provider-base/src/
+eureka-provider-base/target/
+eureka-provider/src/test/
+eureka-provider/target/
+eureka-server/src/test/
+eureka-server/target/
